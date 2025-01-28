@@ -18,7 +18,7 @@ To fix these issues, I began development on a replacement that uses an ESP32-S3 
 # Version 1
 ![20241020_225354](https://github.com/user-attachments/assets/9ee0763b-678e-4f72-b8f8-f5a410323928)
 
-Version 1 was created on a very tight time schedule, since we had track testing scheduled and needed a functional main board with datalogging. I ordered prototyping parts from Adafruit, and within 2 weeks I had a functional prototype ready to go just in time for testing. 
+Version 1 was created on a very tight timeline, since we had track testing scheduled later that month and needed a functional main board with datalogging. I ordered prototyping parts from Adafruit, and within 2 weeks I had a functional prototype ready to go in time for testing. 
 
 Version 1 presented the following isses which were addressed with version 2:
 - SD card holder didn't maintain contact, it required a zip tie to keep it pressed into the socket
@@ -32,7 +32,7 @@ This board uses mainly 0805 components because they are widely available and mak
 Testing SPI timing
 ![20250120_130522](https://github.com/user-attachments/assets/e54061db-dd00-450e-9b77-e17a79f76080)
 
-Version 2 uses the Ublox M9V. I chose it because it has very high precision for its cost ($35). It seems to work well, with <2m accuracy in most conditions. It also has much higher update frequency than the previous GNSS module. 
+Version 2 uses the Ublox M9V. I chose it because it has very high precision for its cost. It seems to work well, with <2m accuracy in most conditions. It also has much higher update frequency than the previous GNSS module. 
 For this application, I am running the navigation updates at 10Hz and using the GPS time to timestamp my datalog entries. 
 ![image](https://github.com/user-attachments/assets/76708cc4-90b9-4c39-a783-8b1467a7694d)
 
@@ -44,7 +44,8 @@ Version 3 is mostly electrically the same as version 2, but repositions stuff to
 ![Screenshot From 2025-01-09 10-14-58](https://github.com/user-attachments/assets/3e9def3c-6bfd-4b4a-a467-171da692820e)
 
 I'm using the KiCad HTML BOM extension to generate this interactive BOM, which I use when sourcing and placing and parts.
+
 ![Screenshot From 2025-01-11 00-53-45](https://github.com/user-attachments/assets/09753a22-390a-45e4-a77f-c0b78d329398)
 
 
-[return to main page](main.md)
+[return to main page](index.md)
