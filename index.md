@@ -1,6 +1,9 @@
 (Yellow or blue text is a hyperlink to more detailed articles)
 # **Projects:**
 
+## [Adaptive Microscope Light](microscope_light.md) (2024)
+![20250127_234451](https://github.com/user-attachments/assets/9cf9eb6f-cb29-41fc-9aba-1f96acd0a600)
+
 ## [Lalboard (pictures only)](Lalboard-custom.md) (2023)
 An advanced keyboard for efficient, ergonomic typing
 ![20230117_174516](https://user-images.githubusercontent.com/95006894/213029334-a2e43864-97db-41af-a080-d2f3f85e563a.jpg)
