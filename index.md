@@ -11,6 +11,8 @@ An advanced keyboard for efficient, ergonomic typing
 ![20230117_174516](https://user-images.githubusercontent.com/95006894/213029334-a2e43864-97db-41af-a080-d2f3f85e563a.jpg)
 
 ## [High sensitivity infrared receiver](RTTY.md) (2023)
+A high performance infrared receiver for data transfer
+![20231128_205652](https://github.com/user-attachments/assets/35c21402-fae5-48f6-bc1a-35062e626546)
 
 ## [Trackpoint Reverse Engineering](trackpoint.md) (2022)
 A trackpoint cut in half
