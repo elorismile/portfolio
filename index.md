@@ -1,7 +1,10 @@
 (**Project titles can be clicked for more detailed articles**)
 # **Projects:**
+## [SolarCar Custom Battery Management System](solarcar_bms.md) (2026)
+![IMG_5027](https://github.com/user-attachments/assets/97e175bd-3f2b-4608-9918-ccbb5cd9cc1c)
+
 ## [SolarCar Main Control Board](solarcar_mainboard.md) (2024)
-![53866110773_d6358c1af1_o](https://github.com/user-attachments/assets/daf715f5-a0cd-4f39-ab20-6801103e74a4)
+![54635763514_e2f587842c_o](https://github.com/user-attachments/assets/81c6000d-7ffa-4aa7-9484-bfd9602fb4e2)
 
 ## [Adaptive Microscope Light](microscope_light.md) (2024)
 ![20250127_234451](https://github.com/user-attachments/assets/9cf9eb6f-cb29-41fc-9aba-1f96acd0a600)
