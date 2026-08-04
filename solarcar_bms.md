@@ -11,7 +11,7 @@ Miraculously, I managed to make a replacement BMU using an ADC borrowed from my 
 
 # Goal
 
-Learning from what happened during FSGP 2025, I set out to design a proper custom BMS with the following goals:
+Learning from what happened during FSGP 2025, I set out to design a proper custom BMS for FSGP/ASC2026 with the following goals:
 
 - Repairable without buying a whole new module  
 - Use generic components to maximize repairability  
