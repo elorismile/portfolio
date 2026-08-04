@@ -1,5 +1,7 @@
-# SolarCar Main Control Board
+# SolarCar Battery Management System
 I'm the electrical lead for the SolarCar at VT team, where we are building a solar race car that is capable of racing for hundreds of miles without recharging. If you want to learn more about what we do, Virginia Tech published a [<ins>cool magazine article about us.</ins>](https://eng.vt.edu/magazine/stories/fall-2024/solar-powered-cars.html)
+
+![EVG05086](https://github.com/user-attachments/assets/1576897c-a041-4c0e-a7fc-1910f41a6329)
 
 # Background
 
