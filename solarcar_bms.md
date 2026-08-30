@@ -54,6 +54,9 @@ The Battery Management Unit (BMU) is responsible for contactor control, precharg
 
 The BMU is split into 3 modules: BMU\_Main, BMU\_HVSense, and BMU\_Power. 
 
+![20260419_133736](https://github.com/user-attachments/assets/08f78ba6-3115-454c-a384-4e621e671a56)
+![20260418_222321](https://github.com/user-attachments/assets/0e41e1fb-3dc5-4854-b667-adfacfd3575f)
+
 ## BMU\_Power
 
 Has high-side NMOS for contactor control. It also has the mechanism to switch the car’s 12V rail from the supplemental battery to the HV-\>12V converter. 
